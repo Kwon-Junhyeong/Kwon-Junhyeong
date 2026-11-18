@@ -2,7 +2,7 @@
 
 Robotics Software Engineer | robot audition and deep-learning perception, SLAM and navigation, embedded control
 
-[Portfolio (PDF)](Kwon_Portfolio_EN.pdf) | [LinkedIn](https://www.linkedin.com/in/junhyeong-kwon/) | meoruu00@gmail.com
+[Portfolio (PDF)](https://github.com/Kwon-Junhyeong/Kwon-Junhyeong/blob/main/Kwon_Portfolio_EN.pdf) | [LinkedIn](https://www.linkedin.com/in/junhyeong-kwon/) | meoruu00@gmail.com
 
 I build robots that hear, see, and move.
 
