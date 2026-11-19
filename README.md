@@ -19,7 +19,7 @@ I build robots that hear, see, and move.
 | Audiovisual sound event localization | DCASE 2026 Task 3 audiovisual track: low-threshold detection, a learned reranker, and dense mask output | [audiovisual-sound-event-localization](https://github.com/Kwon-Junhyeong/audiovisual-sound-event-localization) |
 | Live captioning device | Tabletop device that labels each caption with its speaker (ROS 2, Jetson Orin Nano) | [live-caption-device](https://github.com/Kwon-Junhyeong/live-caption-device) |
 | Smart indoor walker | Maps a room with LiDAR, drives to a clicked goal, and lifts its seat (ROS 2, Nav2) | [smart-indoor-walker](https://github.com/Kwon-Junhyeong/smart-indoor-walker) |
-| Generative survivor search | Disaster-site search robot: a generative model predicts unseen space from LiDAR and sound | In progress, portfolio p. 13 |
+| Generative survivor search | Disaster-site search robot: a generative model predicts unseen space from LiDAR and sound | In progress, portfolio p. 14 |
 | Face-tracking gimbal | Two-axis camera gimbal with closed-loop FOC firmware on an STM32 | [tracking-gimbal-foc](https://github.com/Kwon-Junhyeong/tracking-gimbal-foc) |
 | LiDAR scan-matching accelerator | Gauss-Newton scan matching on an FPGA (Verilog, ZCU104) | [scan-matching-accelerator](https://github.com/Kwon-Junhyeong/scan-matching-accelerator) |
 | YOLO object detection accelerator | YOLOv2-tiny CNN accelerator on an Artix-7 FPGA (Verilog, Nexys A7-100T) | [yolo-fpga-accelerator](https://github.com/Kwon-Junhyeong/yolo-fpga-accelerator) |
