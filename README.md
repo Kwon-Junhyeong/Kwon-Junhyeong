@@ -14,8 +14,9 @@ I build robots that hear, see, and move.
 
 | Project | What it does | Code / status |
 |---|---|---|
-| Sound source localization on a robot body | Microphone responses computed with the boundary element method, a confidence gate, and conformal prediction | [robot-body-sound-localization](https://github.com/Kwon-Junhyeong/robot-body-sound-localization) |
+| Sound source localization on a robot body | Direction and separated speech of each speaker from 4 microphones on a robot body: SRP-PHAT, RTF, and a modified oSpatialNet on microphone responses computed with the boundary element method | [robot-body-sound-localization](https://github.com/Kwon-Junhyeong/robot-body-sound-localization), [stl2bem](https://github.com/Kwon-Junhyeong/stl2bem) |
 | Localization without manual microphone calibration | Channel gains, phases, and delays recovered from unlabeled audio | [calibration-free-sound-localization](https://github.com/Kwon-Junhyeong/calibration-free-sound-localization) |
+| Conformal prediction for sound source localization | A region built to contain the true direction with a chosen probability, with a confidence gate that withholds uncertain answers | [robot-body-sound-localization](https://github.com/Kwon-Junhyeong/robot-body-sound-localization) |
 | Audiovisual sound event localization | DCASE 2026 Task 3 audiovisual track: low-threshold detection, a learned reranker, and dense mask output | [audiovisual-sound-event-localization](https://github.com/Kwon-Junhyeong/audiovisual-sound-event-localization) |
 | Live captioning device | Tabletop device that labels each caption with its speaker (ROS 2, Jetson Orin Nano) | [live-caption-device](https://github.com/Kwon-Junhyeong/live-caption-device) |
 | Smart indoor walker | Maps a room with LiDAR, drives to a clicked goal, and lifts its seat (ROS 2, Nav2) | [smart-indoor-walker](https://github.com/Kwon-Junhyeong/smart-indoor-walker) |
