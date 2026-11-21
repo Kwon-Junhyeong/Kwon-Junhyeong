@@ -15,7 +15,7 @@ I build robots that hear, see, and move.
 | Project | What it does | Code / status |
 |---|---|---|
 | Sound source localization on a robot body | Speaker direction and speech separation with 4 microphones on a robot body | [robot-body-sound-localization](https://github.com/Kwon-Junhyeong/robot-body-sound-localization), [stl2bem](https://github.com/Kwon-Junhyeong/stl2bem) |
-| Localization without manual microphone calibration | Channel gains, phases, and delays recovered from unlabeled audio | [calibration-free-sound-localization](https://github.com/Kwon-Junhyeong/calibration-free-sound-localization) |
+| Localization without manual microphone calibration | Body response computed from CAD and channel delays estimated from unlabeled audio, with no trained model | [calibration-free-sound-localization](https://github.com/Kwon-Junhyeong/calibration-free-sound-localization) |
 | Conformal prediction for sound source localization | A region that contains the true direction with a chosen probability | [robot-body-sound-localization](https://github.com/Kwon-Junhyeong/robot-body-sound-localization) |
 | Audiovisual sound event localization | DCASE 2026 Task 3 audiovisual track: low-threshold detection, a learned reranker, and dense mask output | [audiovisual-sound-event-localization](https://github.com/Kwon-Junhyeong/audiovisual-sound-event-localization) |
 | Live captioning device | Tabletop device that labels each caption with its speaker (ROS 2, Jetson Orin Nano) | [live-caption-device](https://github.com/Kwon-Junhyeong/live-caption-device) |
@@ -23,7 +23,7 @@ I build robots that hear, see, and move.
 | Generative survivor search | Disaster-site search robot: a generative model predicts unseen space from LiDAR and sound | In progress, portfolio p. 14 |
 | Face-tracking gimbal | Two-axis camera gimbal with closed-loop FOC firmware on an STM32 | [tracking-gimbal-foc](https://github.com/Kwon-Junhyeong/tracking-gimbal-foc) |
 | LiDAR scan-matching accelerator | Gauss-Newton scan matching on an FPGA (Verilog, ZCU104) | [scan-matching-accelerator](https://github.com/Kwon-Junhyeong/scan-matching-accelerator) |
-| YOLO object detection accelerator | YOLOv2-tiny CNN accelerator on an Artix-7 FPGA (Verilog, Nexys A7-100T) | [yolo-fpga-accelerator](https://github.com/Kwon-Junhyeong/yolo-fpga-accelerator) |
+| YOLO object detection accelerator | YOLOv2 CNN accelerator on an Artix-7 FPGA (Verilog, Nexys A7-100T) | [yolo-fpga-accelerator](https://github.com/Kwon-Junhyeong/yolo-fpga-accelerator) |
 | Lane-following car | Camera-only lane following with an offloaded detector and a course state machine (Raspberry Pi) | [lane-following-car](https://github.com/Kwon-Junhyeong/lane-following-car) |
 
 ## Contact
