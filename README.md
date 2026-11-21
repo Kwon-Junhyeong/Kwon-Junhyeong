@@ -14,7 +14,7 @@ I build robots that hear, see, and move.
 
 | Project | What it does | Code / status |
 |---|---|---|
-| Sound source localization on a robot body | Speaker direction and speech separation with 4 microphones on a robot body | [robot-body-sound-localization](https://github.com/Kwon-Junhyeong/robot-body-sound-localization), [stl2bem](https://github.com/Kwon-Junhyeong/stl2bem) |
+| Sound source localization on a robot body | Speaker direction and speech separation with 4 microphones on a robot body | [robot-body-sound-localization](https://github.com/Kwon-Junhyeong/robot-body-sound-localization), [stl2bem](https://github.com/Kwon-Junhyeong/stl2bem) ([PyPI](https://pypi.org/project/stl2bem/), [DOI](https://doi.org/10.5281/zenodo.24376763)) |
 | Localization without measured or labeled acoustic data | Body response computed from CAD and channel delays estimated from unlabeled audio, with no trained model | [calibration-free-sound-localization](https://github.com/Kwon-Junhyeong/calibration-free-sound-localization) |
 | Conformal prediction for sound source localization | A region that contains the true direction with a chosen probability | Portfolio p. 5 |
 | Audiovisual sound event localization | DCASE 2026 Task 3 audiovisual track: low-threshold detection, a learned reranker, and dense mask output | [audiovisual-sound-event-localization](https://github.com/Kwon-Junhyeong/audiovisual-sound-event-localization) |
